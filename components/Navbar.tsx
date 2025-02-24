@@ -18,7 +18,7 @@ const links = [
 ];
 
 const socialLinks = [
-  { name: 'GitHub', href: 'https://github.com/', icon: <Github className="w-5 h-5" /> },
+  { name: 'GitHub', href: 'https://github.com/manideep1428', icon: <Github className="w-5 h-5" /> },
   { name: 'LinkedIn', href: 'https://linkedin.com/in/manideep1428', icon: <Linkedin className="w-5 h-5" /> },
   { name: 'X', href: 'https://twitter.com/manideep1428', icon: <Twitter className="w-5 h-5" /> },
 ];

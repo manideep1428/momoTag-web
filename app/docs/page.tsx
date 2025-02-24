@@ -29,8 +29,6 @@ export default function ProjectTabs() {
               </ul>
               <p>A login button is placed on top of the Admin and User panels to simulate real login, generating a random token stored in local storage.</p>
               <p>I didn’t prioritize styles for the sake of fast development.</p>
-              <p>Using Supabase allowed me to quickly set up authentication and database management, making the development process more efficient.</p>
-              <p>The system ensures smooth moderation by allowing the admin to filter content before public display, promoting a safe and structured environment.</p>
             </CardContent>
           </Card>
         </TabsContent>
