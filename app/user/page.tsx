@@ -41,6 +41,7 @@ export default function UserPanel() {
       toast({ title: 'Success', description:'Post added successfully' });
       setContent('');
     } catch (error) {
+      //@ts-ignore
       toast({ title: 'Error', description: error.message, variant: 'destructive' });
     } finally {
       setIsSubmitting(false);
